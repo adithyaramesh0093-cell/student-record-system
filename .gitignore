@@ -1,0 +1,10 @@
+# build output
+build/
+*.o
+*.d
+*.exe
+
+# your saved data (remove these lines if you want to commit the data file)
+/student.dat
+*.dat.tmp
+*.dat.bak
